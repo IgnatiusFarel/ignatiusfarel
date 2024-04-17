@@ -7,13 +7,14 @@ Frontend Web Developer | UI UX Designer
 An enthusiastic learner who's is a two-year undergraduate student at the Faculty of Vocational School, Sebelas Maret University, majoring in Informatics Engineering. He has a strong interest in the world of technology, especially a passionate Fullstack web developer. While still maintaining his academic studies, he is also actively involved in many organizations. He also has a lot of experience in the field of software development and software development also in several programming languages and framework, such java, python, dart, flutter, javascript, can using VueJS as Frontend, php, can using Laravel as Backend. He can also do expert graphic design using Canva and Figma for content creation and creation or UI/UX. Farel is a creative person that always puts his best in everything he does.
 
 - 🌍  I'm based in Indonesian
+  
 - 🌱 I’m currently learning **ReactJS, VueJS, and Laravel**
 
 - 👯 I’m looking to collaborate on [Project Based Learning](https://d3ti.vokasi.uns.ac.id/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/IgnatiusFarel](https://github.com/IgnatiusFarel)
 
-- 💬 Ask me about **Programming**
+- 💬 Ask me about **Programming especially Javascript**
 
 - 📫 How to reach me **ignatiusloyolafarel17@gmail.comn**
 
