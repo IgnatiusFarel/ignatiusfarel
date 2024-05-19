@@ -1,26 +1,26 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ignatius Loyola Farel Kusuma Dewa
 =========================================================================================================================================================
 
-Frontend Web Developer | UI UX Designer
+Junior Frontend Web Developer | UI UX Designer | Informatics Engineering Student | Software Engineer
 ---------------------------------------
 
 An enthusiastic learner who's is a two-year undergraduate student at the Faculty of Vocational School, Sebelas Maret University, majoring in Informatics Engineering. He has a strong interest in the world of technology, especially a passionate Fullstack web developer. While still maintaining his academic studies, he is also actively involved in many organizations. He also has a lot of experience in the field of software development and software development also in several programming languages and framework, such java, python, dart, flutter, javascript, can using VueJS as Frontend, php, can using Laravel as Backend. He can also do expert graphic design using Canva and Figma for content creation and creation or UI/UX. Farel is a creative person that always puts his best in everything he does.
 
 - 🌍  I'm based in Indonesian
   
-- 🌱 I’m currently learning **ReactJS, VueJS, and Laravel**
+- 🌱 I’m currently learning **ReactJS, VueJS, and Javascript**
 
-- 👯 I’m looking to collaborate on [Project Based Learning](https://d3ti.vokasi.uns.ac.id/)
+- 👯 I'm collaborating on Project Based Learning [Project Based Learning](https://d3ti.vokasi.uns.ac.id/) and [Project Based Learning](https://kodegiri.com/ ) | [Project Based Learning](https://www.star-indonesia.id/star/about/starsoftware)
 
 - 👨‍💻 All of my projects are available at [https://github.com/IgnatiusFarel](https://github.com/IgnatiusFarel)
 
-- 💬 Ask me about **Programming especially Javascript**
+- 💬 Ask me about **Programming especially Javascript and User Interface**
 
 - 📫 How to reach me **ignatiusloyolafarel17@gmail.comn**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ignatiusfarel](https://www.linkedin.com/in/ignatiusfarel)
 
-- ⚡ Fun fact **An enthusiastic learner**
+- ⚡ Fun fact **An enthusiastic learner and Tech Enthusiast**
 
 ### Skills
 
@@ -32,7 +32,7 @@ An enthusiastic learner who's is a two-year undergraduate student at the Faculty
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ignatiusfarel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ignatiusfarel_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ignatiusfarel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/ignatiusfarel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ignatiusfarel_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ignatiusfarel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
@@ -41,8 +41,6 @@ An enthusiastic learner who's is a two-year undergraduate student at the Faculty
 <a href="http://www.github.com/ignatiusfarel"><img src="https://github-readme-stats.vercel.app/api?username=ignatiusfarel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ignatiusfarel's GitHub stats" /></a>
 
 <a href="http://www.github.com/ignatiusfarel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ignatiusfarel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ignatiusfarel"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ignatiusfarel&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ignatiusfarel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignatiusfarel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
