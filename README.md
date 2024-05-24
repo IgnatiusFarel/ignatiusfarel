@@ -40,10 +40,14 @@ An enthusiastic learner who's is a two-year undergraduate student at the Faculty
 
 <a href="http://www.github.com/ignatiusfarel"><img src="https://github-readme-stats.vercel.app/api?username=ignatiusfarel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ignatiusfarel's GitHub stats" /></a>
 
+<b>My Activity </b>
+
 <a href="http://www.github.com/ignatiusfarel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ignatiusfarel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<b>Top Languages</b>
 
 <a href="https://github.com/ignatiusfarel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignatiusfarel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
