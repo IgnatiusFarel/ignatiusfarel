@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Frontend Web Developer | UI UX Designer | Informatics Engineering Student | Software Engineer
 ---------------------------------------
 
-An enthusiastic learner who's is a two-year undergraduate student at the Faculty of Vocational School, Sebelas Maret University, majoring in Informatics Engineering. He has a strong interest in the world of technology, especially a passionate Fullstack web developer. While still maintaining his academic studies, he is also actively involved in many organizations. He also has a lot of experience in the field of software development and software development also in several programming languages and framework, such java, python, dart, flutter, javascript, can using VueJS as Frontend, php, can using Laravel as Backend. He can also do expert graphic design using Canva and Figma for content creation and creation or UI/UX. Farel is a creative person that always puts his best in everything he does.
+An enthusiastic learner who's is a two-year undergraduate student at the Faculty of Vocational School, Sebelas Maret University, majoring in Informatics Engineering. He has a strong interest in the world of technology, especially a passionate Fullstack web developer. While still maintaining his academic studies, he is also actively involved in many organizations. He also has a lot of experience in the field of software development and software development also in several programming languages and framework, such java, python, dart, flutter, javascript, can using VueJS as Frontend, php, can using Laravel as Backend. He can also do expert graphic design using Canva and Figma for content creation and creation or UI/UX. Farel is a creative person that always puts his best in everything he does. 
+
+*#BTW people usually call me Farel*
 
 - 🌍  I'm based in Indonesian
   
