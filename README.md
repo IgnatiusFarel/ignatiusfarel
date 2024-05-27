@@ -36,10 +36,6 @@ An enthusiastic learner who's is a two-year undergraduate student at the Faculty
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-### Badges
-
 <table>
   <tr>
     <td>
