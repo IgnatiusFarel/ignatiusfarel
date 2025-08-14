@@ -1,63 +1,118 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ignatius Loyola Farel Kusuma Dewa
+<div align="center"> 
+
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ignatius Loyola Farel Kusuma Dewa  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </div>
 =========================================================================================================================================================
 
-Junior Frontend Web Developer | UI UX Designer | Informatics Engineering Student | Software Engineer
----------------------------------------
+![IgnatiusFarel Banner Image](./Banner%20V1.png)
 
-An enthusiastic learner who's is a two-year undergraduate student at the Faculty of Vocational School, Sebelas Maret University, majoring in Informatics Engineering. He has a strong interest in the world of technology, especially a passionate Fullstack web developer. While still maintaining his academic studies, he is also actively involved in many organizations. He also has a lot of experience in the field of software development and software development also in several programming languages and framework, such java, python, dart, flutter, javascript, can using VueJS as Frontend, php, can using Laravel as Backend. He can also do expert graphic design using Canva and Figma for content creation and creation or UI/UX. Farel is a creative person that always puts his best in everything he does. 
-
-*#BTW people usually call me Farel*
-
-- 🌍  I'm based in Indonesian
+<div style="text-align: justify;">
+  <p>
+    I'm an enthusiastic developer passionate about technology, especially in <strong>software development</strong> 🌐. <strong>Technology has always fascinated me</strong>, and I continuously explore new trends and innovations 🚀. I'm a <strong>lifelong learner</strong> 📚, driven by <strong>curiosity</strong> and a strong desire to <strong>understand and improve the world around me</strong> 🌍.
+  </p>
   
-- 🌱 I’m currently learning **ReactJS, VueJS, and Javascript**
+  <p>
+    My goal is to use <strong>technology to make the world a better place</strong> 💡, by creating solutions that have a <strong>positive impact on people's lives</strong>. I believe in <strong>continuous growth</strong> and strive to build applications and information systems that truly matter and drive <strong>meaningful change</strong>. I'm also excited to collaborate with others and share knowledge for <strong>collective progress</strong> in the tech community 🌟.
+  </p>
+</div>
 
-- 👯 I'm collaborating on Project Based Learning [Project Based Learning](https://d3ti.vokasi.uns.ac.id/) and [Project Based Learning](https://kodegiri.com/ ) | [Project Based Learning](https://www.star-indonesia.id/star/about/starsoftware)
+<div align="center"> 
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./TechStack_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./TechStack_Animation_White.gif">
+  <img align="center" alt="My Tech Stack" src="./TechStack_Animation_White.gif">
+</picture>
 
-- 👨‍💻 All of my projects are available at [https://github.com/IgnatiusFarel](https://github.com/IgnatiusFarel)
+</div>
+<br />
 
-- 💬 Ask me about **Programming especially Javascript and User Interface**
+<h2 align="center">🤝 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 🤝</h2>
+<div align="center">
 
-- 📫 How to reach me **ignatiusloyolafarel17@gmail.comn**
+<a href="https://instagram.com/in/ignatiusfarel_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://linkedin.com/in/ignatiusfarel" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ignatiusfarel](https://www.linkedin.com/in/ignatiusfarel)
+</div>
 
-- ⚡ Fun fact **An enthusiastic learner and Tech Enthusiast**
-
-### Skills
-
-
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/ignatiusfarel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ignatiusfarel_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ignatiusfarel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<table>
+<h2 align="center">📊 ​ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ​ 📊</h2>
+<table width="100%">
   <tr>
-    <td>
-      <b>My GitHub Stats</b>
-      <br>
-      <a href="http://www.github.com/ignatiusfarel"><img src="https://github-readme-stats.vercel.app/api?username=ignatiusfarel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ignatiusfarel's GitHub stats" /></a>
+    <td width="50%">
+      <h3 align="center"><strong>​ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
     </td>
-    <td>
-      <b>My Activity</b>
-      <br>
-      <a href="http://www.github.com/ignatiusfarel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ignatiusfarel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    <td width="50%">
+      <h3 align="center"><strong>ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/IgnatiusFarel">
+          <img align="center" src="https://streak-stats.demolab.com?user=IgnatiusFarel&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
     </td>
-    <td>
-      <b>Top Languages</b>
-      <br>
-      <a href="https://github.com/ignatiusfarel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignatiusfarel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>ᴛᴏᴘ ʟᴀɴɢᴜᴀɢᴇ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/IgnatiusFarel">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnatiusFarel&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Language" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>ᴛᴏᴘ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/IgnatiusFarel">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=IgnatiusFarel&limit=10&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
+<br />
 
+<h2 align="center">🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘɪᴇꜱ🏆</h2>
+<p align="center">
+  <a href="https://github.com/IgnatiusFarel">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=IgnatiusFarel&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=IgnatiusFarel&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=IgnatiusFarel&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
 
+<h2 align="center">📈 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgnatiusFarel&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
 
+<h2 align="center">👇 ᴇᴠᴇʀᴅᴀʏ ᴄᴏᴅᴇ 👇</h2>
+<picture>
+  <img align="center" alt="Coding" src="./Coding.gif">
+</picture>
+
+<h2 align="center">👋 ɢʟᴀᴅ ᴛᴏ ꜱᴇᴇ ʏᴏᴜ ʜᴇʀᴇ! 👋</h2>
+
+```bash
+I'm excited that you took the time to check out my work! 🚀 I hope it inspires you to keep exploring, coding, and pushing the boundaries of what's possible with technology. 💡 Let's build the future together!
+
+Feel free to explore my repositories, contribute, or reach out if you want to collaborate or chat about anything tech-related. Let's connect and create something amazing! 💬
+
+Don't forget to ⭐️ your favorite projects and stay tuned for more updates. 🌟
+
+Thanks for stopping by, and happy coding! 🙌
+````
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&width=1200&section=footer"/>
+</p>
 
