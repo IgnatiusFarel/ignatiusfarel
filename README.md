@@ -36,6 +36,8 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+![Ignatius Farel CLI](./metrics.terminal.svg)
+
 </div>
 
 <h2 align="center">📊 ​ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ​ 📊</h2>
