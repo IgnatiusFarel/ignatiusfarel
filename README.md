@@ -1,6 +1,6 @@
 <div align="center"> 
 
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ignatius Loyola Farel Kusuma Dewa  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </div>
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Farel <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </div>
 =========================================================================================================================================================
 
 ![IgnatiusFarel Banner Image](./Banner%20V1.png)
@@ -35,6 +35,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <a href="https://linkedin.com/in/ignatiusfarel" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<img src="https://komarev.com/ghpvc/?username=IgnatiusFarel&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Ignatius Farel" style="padding-right:20px;" />
 
 ![Ignatius Farel CLI](./metrics.terminal.svg)
 
